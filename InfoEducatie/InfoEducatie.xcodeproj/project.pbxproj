@@ -44,6 +44,12 @@
 		FA38347D2B89FA05002F9257 /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA38347C2B89FA05002F9257 /* TestView.swift */; };
 		FA38347F2B89FA51002F9257 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA38347E2B89FA51002F9257 /* ViewModel.swift */; };
 		FA3834812B89FD09002F9257 /* Link.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3834802B89FD09002F9257 /* Link.swift */; };
+		FA3834A42B8A36D7002F9257 /* FontModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA3834A32B8A36D7002F9257 /* FontModifiers.swift */; };
+		FA54FBB82BE02A66009329D5 /* DMSerifDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA54FBB72BE02A66009329D5 /* DMSerifDisplay-Regular.ttf */; };
+		FA54FBBA2BE02EA9009329D5 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54FBB92BE02EA9009329D5 /* HomeView.swift */; };
+		FA54FBBC2BE02F1F009329D5 /* GreetingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54FBBB2BE02F1F009329D5 /* GreetingsView.swift */; };
+		FA54FBBE2BE04D14009329D5 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54FBBD2BE04D14009329D5 /* GameView.swift */; };
+		FA54FBC02BE04F97009329D5 /* MindfulnessIntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA54FBBF2BE04F97009329D5 /* MindfulnessIntroView.swift */; };
 		FABE23B12B83755900939F9F /* vcuauh.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABE23B02B83755900939F9F /* vcuauh.swift */; };
 		FABE23B32B8467F600939F9F /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABE23B22B8467F600939F9F /* BackgroundView.swift */; };
 /* End PBXBuildFile section */
@@ -60,6 +66,13 @@
 		FA38347C2B89FA05002F9257 /* TestView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 		FA38347E2B89FA51002F9257 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		FA3834802B89FD09002F9257 /* Link.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Link.swift; sourceTree = "<group>"; };
+		FA3834A22B8A35AB002F9257 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		FA3834A32B8A36D7002F9257 /* FontModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontModifiers.swift; sourceTree = "<group>"; };
+		FA54FBB72BE02A66009329D5 /* DMSerifDisplay-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSerifDisplay-Regular.ttf"; sourceTree = "<group>"; };
+		FA54FBB92BE02EA9009329D5 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		FA54FBBB2BE02F1F009329D5 /* GreetingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetingsView.swift; sourceTree = "<group>"; };
+		FA54FBBD2BE04D14009329D5 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		FA54FBBF2BE04F97009329D5 /* MindfulnessIntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MindfulnessIntroView.swift; sourceTree = "<group>"; };
 		FABE23B02B83755900939F9F /* vcuauh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vcuauh.swift; sourceTree = "<group>"; };
 		FABE23B22B8467F600939F9F /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -122,13 +135,18 @@
 			isa = PBXGroup;
 			children = (
 				FA1ADA8F2B7CE283003634AB /* InfoEducatieApp.swift */,
-				FA3834782B89F98B002F9257 /* ActivitiesView.swift */,
+				FA54FBB92BE02EA9009329D5 /* HomeView.swift */,
+				FA54FBBB2BE02F1F009329D5 /* GreetingsView.swift */,
+				FA54FBBD2BE04D14009329D5 /* GameView.swift */,
+				FABE23B02B83755900939F9F /* vcuauh.swift */,
+				FA54FBBF2BE04F97009329D5 /* MindfulnessIntroView.swift */,
 				FA3834822B89FD11002F9257 /* Model */,
 				FA3834832B89FD17002F9257 /* ViewModel */,
-				FABE23B02B83755900939F9F /* vcuauh.swift */,
 				FA38347B2B89F9B1002F9257 /* Utilities */,
 				FA38347A2B89F991002F9257 /* Tests */,
+				FA3834842B8A3561002F9257 /* Fonts */,
 				FA1ADA932B7CE284003634AB /* Assets.xcassets */,
+				FA3834A22B8A35AB002F9257 /* Info.plist */,
 				FA38343B2B89F146002F9257 /* GoogleService-Info.plist */,
 				FA1ADA952B7CE284003634AB /* Preview Content */,
 			);
@@ -146,7 +164,9 @@
 		FA38347A2B89F991002F9257 /* Tests */ = {
 			isa = PBXGroup;
 			children = (
+				FA3834782B89F98B002F9257 /* ActivitiesView.swift */,
 				FA1ADA912B7CE283003634AB /* ContentView.swift */,
+				FA38347C2B89FA05002F9257 /* TestView.swift */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -154,9 +174,9 @@
 		FA38347B2B89F9B1002F9257 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
-				FA38347C2B89FA05002F9257 /* TestView.swift */,
 				FA3834742B89F426002F9257 /* WebView.swift */,
 				FABE23B22B8467F600939F9F /* BackgroundView.swift */,
+				FA3834A32B8A36D7002F9257 /* FontModifiers.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -175,6 +195,14 @@
 				FA38347E2B89FA51002F9257 /* ViewModel.swift */,
 			);
 			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		FA3834842B8A3561002F9257 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FA54FBB72BE02A66009329D5 /* DMSerifDisplay-Regular.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -270,6 +298,7 @@
 				FA1ADA972B7CE284003634AB /* Preview Assets.xcassets in Resources */,
 				FA1ADA942B7CE284003634AB /* Assets.xcassets in Resources */,
 				FA38343C2B89F146002F9257 /* GoogleService-Info.plist in Resources */,
+				FA54FBB82BE02A66009329D5 /* DMSerifDisplay-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,14 +309,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA54FBC02BE04F97009329D5 /* MindfulnessIntroView.swift in Sources */,
 				FABE23B32B8467F600939F9F /* BackgroundView.swift in Sources */,
+				FA3834A42B8A36D7002F9257 /* FontModifiers.swift in Sources */,
 				FA38347F2B89FA51002F9257 /* ViewModel.swift in Sources */,
 				FA1ADA922B7CE283003634AB /* ContentView.swift in Sources */,
 				FA3834752B89F426002F9257 /* WebView.swift in Sources */,
+				FA54FBBC2BE02F1F009329D5 /* GreetingsView.swift in Sources */,
+				FA54FBBA2BE02EA9009329D5 /* HomeView.swift in Sources */,
 				FA1ADA902B7CE283003634AB /* InfoEducatieApp.swift in Sources */,
 				FA38347D2B89FA05002F9257 /* TestView.swift in Sources */,
 				FA3834812B89FD09002F9257 /* Link.swift in Sources */,
 				FABE23B12B83755900939F9F /* vcuauh.swift in Sources */,
+				FA54FBBE2BE04D14009329D5 /* GameView.swift in Sources */,
 				FA3834792B89F98B002F9257 /* ActivitiesView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -425,6 +459,7 @@
 				DEVELOPMENT_TEAM = J2WJ79M6YZ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = InfoEducatie/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -454,6 +489,7 @@
 				DEVELOPMENT_TEAM = J2WJ79M6YZ;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = InfoEducatie/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
