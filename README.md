@@ -29,23 +29,23 @@ La sfârșitul sesiunii de lucru, pagina de jurnal se completează automat, făc
 
 ### I.1. – Tehnologii folosite
 - Front-end:
-Xcode / SwiftUI (Utilizate pentru dezvoltarea interfeței grafice și a funcționalităților de bază ale aplicației educaționale.)
-Adobe Illustrator (Folosit pentru crearea elementelor grafice vectoriale personalizate, precum iconițe, logoul, emoticoane etc.)
-Adobe Photoshop (Utilizat pentru editarea și optimizarea imaginilor și a materialelor grafice.)
-Adobe Animate (Folosit pentru crearea animațiilor interactive care îmbunătățesc experiența de învățare.)
-Adobe XD (Utilizat pentru prototiparea și designul interfeței aplicației.)
-HTML (Folosit pentru structurarea conținutului web al provocarilor.)
-CSS (Utilizat pentru stilizarea și prezentarea vizuală a provocarilor.)
-JavaScript (Folosit pentru adăugarea funcționalităților dinamice și interactive ale provocarilor.)
+Xcode / SwiftUI (Utilizate pentru dezvoltarea interfeței grafice și a funcționalităților de bază ale aplicației educaționale.);
+Adobe Illustrator (Folosit pentru crearea elementelor grafice vectoriale personalizate, precum iconițe, logoul, emoticoane etc.);
+Adobe Photoshop (Utilizat pentru editarea și optimizarea imaginilor și a materialelor grafice.);
+Adobe Animate (Folosit pentru crearea animațiilor interactive care îmbunătățesc experiența de învățare.);
+Adobe XD (Utilizat pentru prototiparea și designul interfeței aplicației.);
+HTML (Folosit pentru structurarea conținutului web al provocarilor.);
+CSS (Utilizat pentru stilizarea și prezentarea vizuală a provocarilor.);
+JavaScript (Folosit pentru adăugarea funcționalităților dinamice și interactive ale provocarilor.);
 - Back-end:
-SwiftData (Folosit la nivel local pentru gestionarea și stocarea datelor sensibile și private ale utilizatorului.)
-CloudKit (Utilizat pentru stocarea și sincronizarea datelor în cloud, orice schimbare fiind reflectată în timp real pe toate dispozitivele cu același cont de iCloud.)
-Firebase (Folosit pentru atât pentru stocarea conținutului educațional, de pildă videouri, articole, cat și pentru notificări push.)
-CoreML / CreateML (Folosite pentru antrenarea, implementarea și rularea machine learning-ului, cum ar fi recunoașterea obiectelor și a culorilor.)
+SwiftData (Folosit la nivel local pentru gestionarea și stocarea datelor sensibile și private ale utilizatorului.);
+CloudKit (Utilizat pentru stocarea și sincronizarea datelor în cloud, orice schimbare fiind reflectată în timp real pe toate dispozitivele cu același cont de iCloud.);
+Firebase (Folosit pentru atât pentru stocarea conținutului educațional, de pildă videouri, articole, cat și pentru notificări push.);
+CoreML / CreateML (Folosite pentru antrenarea, implementarea și rularea machine learning-ului, cum ar fi recunoașterea obiectelor și a culorilor.);
 - API-uri:
-OpenAI API (Utilizat pentru integrarea funcționalităților avansate de procesare a limbajului natural, ce iau viață sub forma asistentului nostru virtual, Stivie.)
-HealthKit (Folosit pentru monitorizarea și gestionarea datelor de activitate fizică, necesar pentru provocări.)
-Apple Screentime / Device Activity (Utilizat pentru monitorizarea timpului petrecut pe dispozitiv în scopuri educaționale, necesar pentru provocări.)
+OpenAI API (Utilizat pentru integrarea funcționalităților avansate de procesare a limbajului natural, ce iau viață sub forma asistentului nostru virtual, Stivie.);
+HealthKit (Folosit pentru monitorizarea și gestionarea datelor de activitate fizică, necesar pentru provocări.);
+Apple Screentime / Device Activity (Utilizat pentru monitorizarea timpului petrecut pe dispozitiv în scopuri educaționale, necesar pentru provocări.);
 
 ### I.2. – Proiectarea arhitecturală
 
