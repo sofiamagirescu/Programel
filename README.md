@@ -1,4 +1,4 @@
-**Titlul proiectului**: STIMIA
+ <div align="justify"> **Titlul proiectului**: STIMIA
 
 **Autorii**: echipa STIMIA - Măgirescu Sofia Maria, Gavriliu Călin-Petru
  
@@ -157,5 +157,4 @@ Aducem utilizatorului conținut educațional personalizat creat cu îndrumarea s
 
 ### V.1. – Originalitatea ideii sau inovații aduse față de soluții existente
 Proiectul nostru este original și aduce o altă perspectivă asupra modului în care tinerii pot învăța despre emoțiile lor. Softul este bazat pe metoda de învățare „Kata”, inspirată din practicile și filozofia „Lean” dezvoltate în Japonia, punând accent pe formarea obiceiurilor. Astfel, utilizatorul învață, treptat, despre modul în care se poate conecta cu lumea din jur și în care se poate simți mai bine, chiar și atunci când pare să nu fie.
-
-
+</div>
