@@ -1,8 +1,6 @@
 **Titlul proiectului**: STIMIA
 
-**Autorii**: echipa STIMIA
-	Măgirescu Sofia Maria
-	Gavriliu Călin-Petru
+**Autorii**: echipa STIMIA - Măgirescu Sofia Maria, Gavriliu Călin-Petru
  
 **Coordonator**:
 	Întuneric Ana, profesor de informatică, Colegiul Național „Ferdinand I” Bacău
