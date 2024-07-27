@@ -19,7 +19,7 @@ Apăsând butonul „Începe doza zilnică”, utilizatorul începe „sesiunea 
 1.	Este întrebat cum s-a simțit în ziua respectivă până în acel moment, având posibilitatea de a selecta mai multe stări.
 2.	Este întrebat care sunt lucrurile care au contribuit la stările sufletești trăite, având posibilitatea de a selecta mai multe opțiuni.
 3.	Este condus spre o conversație scurtă cu asistentul virtual Stivie, acolo unde utilizatorul este întrebat detalii despre felul în care simte, dar poate iniția și el discuții, cerând sfaturi despre cum ar putea să își îmbunătățească starea sau ce ar putea să facă în anumite situații. În momentul în care conversația se apropie de sfârșit, apare butonul „Finalizează sesiunea”, care va duce la următorul pas.
-4.	Apare un mini-quiz care îl vaface pe utilizator să înțeleagă mai multe lucruri despre sine, dar va fi și de ajutor în propunerea următorilor pași.
+4.	Apare un mini-quiz care îl va face pe utilizator să înțeleagă mai multe lucruri despre sine, dar va fi și de ajutor în propunerea următorilor pași.
 5.	Utilizatorul primește lecția zilei, unde va afla mai multe despre un subiect potrivit stării lui din ziua respectivă, dar și activității precedente.
 6.	Apare provocarea zilei care poate fi completată pe loc sau mai târziu, urmând să fie verificată îndeplinirea ei prin text (conversație cu asistentul virtual Stivie), imagini (detectare de obiecte) sau număr de pași (verificare sistem de sănătate din telefon).
 Provocarea și lecția zilei pot fi accesate oricând de pe pagina principală cu scopul de a fi completate sau urmărite.
