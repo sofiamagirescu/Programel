@@ -34,13 +34,13 @@ Adobe Illustrator (Folosit pentru crearea elementelor grafice vectoriale persona
 Adobe Photoshop (Utilizat pentru editarea și optimizarea imaginilor și a materialelor grafice.);
 Adobe Animate (Folosit pentru crearea animațiilor interactive care îmbunătățesc experiența de învățare.);
 Adobe XD (Utilizat pentru prototiparea și designul interfeței aplicației.);
-HTML (Folosit pentru structurarea conținutului web al provocarilor.);
-CSS (Utilizat pentru stilizarea și prezentarea vizuală a provocarilor.);
-JavaScript (Folosit pentru adăugarea funcționalităților dinamice și interactive ale provocarilor.);
+HTML (Folosit pentru structurarea conținutului web al provocărilor.);
+CSS (Utilizat pentru stilizarea și prezentarea vizuală a provocărilor.);
+JavaScript (Folosit pentru adăugarea funcționalităților dinamice și interactive ale provocărilor.);
 - Back-end:
 SwiftData (Folosit la nivel local pentru gestionarea și stocarea datelor sensibile și private ale utilizatorului.);
 CloudKit (Utilizat pentru stocarea și sincronizarea datelor în cloud, orice schimbare fiind reflectată în timp real pe toate dispozitivele cu același cont de iCloud.);
-Firebase (Folosit pentru atât pentru stocarea conținutului educațional, de pildă videouri, articole, cat și pentru notificări push.);
+Firebase (Folosit pentru atât pentru stocarea conținutului educațional, de pildă videouri, articole, cât și pentru notificări push.);
 CoreML / CreateML (Folosite pentru antrenarea, implementarea și rularea machine learning-ului, cum ar fi recunoașterea obiectelor și a culorilor.);
 - API-uri:
 OpenAI API (Utilizat pentru integrarea funcționalităților avansate de procesare a limbajului natural, ce iau viață sub forma asistentului nostru virtual, Stivie.);
